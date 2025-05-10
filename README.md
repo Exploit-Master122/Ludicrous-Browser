@@ -1,2 +1,2 @@
-# Ludicrous-Browser
-A browser that is unblocked and runs in a sandbox.
+Go to 
+[https://codesandbox.io/p/devbox/naughty-framework-msr25s](Codesandbox.io)To deploy
